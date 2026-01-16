@@ -1,0 +1,14 @@
+{
+  "name": "darkbutterfly-poster",
+  "version": "0.1.0",
+  "description": "Marketing poster for DarkButterfly (modular adapters). Provide your API keys and follow platform rules.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.0",
+    "node-schedule": "^2.1.0"
+  }
+}
